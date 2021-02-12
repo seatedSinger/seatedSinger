@@ -18,7 +18,6 @@
 - 👯 I’m looking to collaborate on <a href="https://github.com/covid19india/covid19india-react">COVID19 India</a></li>
 - 💬 Ask me about **JavaScript, Python,  Go, Git and MERN**
 - ⚡ Fun fact: I love to attend Meetups for learning & Networking
--------
 
 ## Technology Stack
 
