@@ -16,8 +16,9 @@
 - 🔭 I’m currently working on **Full stack development projects**
 - 🌱 I’m currently learning **Go and ReactJS**
 - 👯 I’m looking to collaborate on <a href="https://github.com/covid19india/covid19india-react">COVID19 India</a></li>
-- 💬 Ask me about **JavaScript, Python,  Go, Git and MERN**
-- ⚡ Fun fact: I love to attend Meetups for learning & Networking
+- 💬 Ask me about **Golang, Python, Git and MERN**
+- 🏃🏻 I'm not always sitting by my computer, like I run.
+- ⚡ Fun fact: I love to meet new people.
 
 ## Technology Stack
 
