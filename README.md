@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width = '380px'/>
+<!-- <p align="center"> -->
+<!--   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width = '380px'/> -->
 </p>
 <!-- <h2 align="left">👋 I'm Shashank.</h2>
 <p>
