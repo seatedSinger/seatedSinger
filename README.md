@@ -14,12 +14,12 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:shashankmaurya@outlook.com)
 [![spotify](https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760=mailto:https://open.spotify.com/user/seatedsinger?si=5C5BJJp7TGmk9oAszepfqQ)](https://open.spotify.com/playlist/1AXf8MOBhQQ94lbwkPEMZO?si=AlK2kyPXR4KrwLMThnrnOg)
 
-- 🔭 I’m currently working on **Full stack development projects**
-- 🌱 I’m currently learning **Go and ReactJS**
+<!-- - 🔭 Commet inbound -->
+- 🌱 I’m currently learning **Go and React**
 - 👨🏻‍💻 My coding competition participations [Kickstart](https://github.com/seatedSinger/GoogleKickStart) ,[codeforces](https://github.com/seatedSinger/codeJam), [codejam](https://github.com/seatedSinger/codeJam).
-- 🤔 I’m looking for help with Design Pattern.
+- 🤔 I’m looking for help with System Design.
 - 👯 I’m looking to collaborate on <a href="https://github.com/covid19india/covid19india-react">COVID19 India</a></li>
-- 💬 Ask me about **Golang, Python, Git and MERN**
+- 💬 Ask me about **Golang, Python**
 - 🏃🏻 I'm not always sitting by my computer, like I run.
 - ⚡ Fun fact: I love to meet new people.
 
