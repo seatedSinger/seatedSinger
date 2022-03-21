@@ -18,7 +18,6 @@
 - 🌱 I’m currently learning **Go and React**
 - 👨🏻‍💻 My coding competition participations [Kickstart](https://github.com/seatedSinger/GoogleKickStart) ,[codeforces](https://github.com/seatedSinger/codeJam), [codejam](https://github.com/seatedSinger/codeJam).
 - 🤔 I’m looking for help with System Design.
-- 👯 I’m looking to collaborate on <a href="https://github.com/covid19india/covid19india-react">COVID19 India</a></li>
 - 💬 Ask me about **Golang, Python**
 - 🏃🏻 I'm not always sitting by my computer, like I run.
 - ⚡ Fun fact: I love to meet new people.
